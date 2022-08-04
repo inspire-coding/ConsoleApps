@@ -1,0 +1,16 @@
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\bin\Debug\net6.0\BenchMarkGetSecondHighestNumber.exe
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\bin\Debug\net6.0\BenchMarkGetSecondHighestNumber.deps.json
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\bin\Debug\net6.0\BenchMarkGetSecondHighestNumber.runtimeconfig.json
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\bin\Debug\net6.0\BenchMarkGetSecondHighestNumber.dll
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\bin\Debug\net6.0\ref\BenchMarkGetSecondHighestNumber.dll
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\bin\Debug\net6.0\BenchMarkGetSecondHighestNumber.pdb
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.GlobalUsings.g.cs
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.csproj.AssemblyReference.cache
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.AssemblyInfoInputs.cache
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.AssemblyInfo.cs
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.csproj.CoreCompileInputs.cache
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.dll
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\ref\BenchMarkGetSecondHighestNumber.dll
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.pdb
+F:\C#\ConsoleApps\BenchMarkGetSecondHighestNumber\obj\Debug\net6.0\BenchMarkGetSecondHighestNumber.genruntimeconfig.cache
