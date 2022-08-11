@@ -1,0 +1,15 @@
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\bin\Debug\net6.0\ObjectWithLongProcesses.exe
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\bin\Debug\net6.0\ObjectWithLongProcesses.deps.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\bin\Debug\net6.0\ObjectWithLongProcesses.runtimeconfig.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\bin\Debug\net6.0\ObjectWithLongProcesses.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\bin\Debug\net6.0\ObjectWithLongProcesses.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.csproj.AssemblyReference.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.AssemblyInfoInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.AssemblyInfo.cs
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.csproj.CoreCompileInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\refint\ObjectWithLongProcesses.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ObjectWithLongProcesses.genruntimeconfig.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\ObjectWithLongProcesses\ObjectWithLongProcesses\ObjectWithLongProcesses\obj\Debug\net6.0\ref\ObjectWithLongProcesses.dll

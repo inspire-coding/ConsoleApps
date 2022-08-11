@@ -1,0 +1,15 @@
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\bin\Debug\net6.0\AsyncExampleProgram.exe
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\bin\Debug\net6.0\AsyncExampleProgram.deps.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\bin\Debug\net6.0\AsyncExampleProgram.runtimeconfig.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\bin\Debug\net6.0\AsyncExampleProgram.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\bin\Debug\net6.0\AsyncExampleProgram.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.csproj.AssemblyReference.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.AssemblyInfoInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.AssemblyInfo.cs
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\refint\AsyncExampleProgram.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\AsyncExampleProgram.genruntimeconfig.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\obj\Debug\net6.0\ref\AsyncExampleProgram.dll
