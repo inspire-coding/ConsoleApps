@@ -1,0 +1,15 @@
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.csproj.AssemblyReference.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.AssemblyInfoInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.AssemblyInfo.cs
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.csproj.CoreCompileInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\bin\Debug\net6.0\recordtype.exe
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\bin\Debug\net6.0\recordtype.deps.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\bin\Debug\net6.0\recordtype.runtimeconfig.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\bin\Debug\net6.0\recordtype.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\bin\Debug\net6.0\recordtype.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\refint\recordtype.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\recordtype.genruntimeconfig.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\obj\Debug\net6.0\ref\recordtype.dll

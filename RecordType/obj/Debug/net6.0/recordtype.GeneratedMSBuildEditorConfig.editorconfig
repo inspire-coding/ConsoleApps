@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = AsyncExampleProgram
-build_property.ProjectDir = c:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\AsyncExampleProgram\AsyncExampleProgram\AsyncExampleProgram\
+build_property.RootNamespace = recordtype
+build_property.ProjectDir = C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\recordtype\
