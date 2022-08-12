@@ -44,5 +44,8 @@ class Program
         int age;
         (name, age) = (MemberRecord)memberRecord1;
         System.Console.WriteLine($"Name: {name}, Age: {age}");
+
+        MemberStruct memberStruct = new MemberStruct();
+        memberStruct.Age = 12;
     }
 }
