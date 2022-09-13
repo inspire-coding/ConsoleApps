@@ -1,0 +1,15 @@
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.csproj.AssemblyReference.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.AssemblyInfoInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.AssemblyInfo.cs
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\bin\Debug\net6.0\DemonstrativeLetterSplitter.exe
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\bin\Debug\net6.0\DemonstrativeLetterSplitter.deps.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\bin\Debug\net6.0\DemonstrativeLetterSplitter.runtimeconfig.json
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\bin\Debug\net6.0\DemonstrativeLetterSplitter.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\bin\Debug\net6.0\DemonstrativeLetterSplitter.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\refint\DemonstrativeLetterSplitter.dll
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.pdb
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\DemonstrativeLetterSplitter.genruntimeconfig.cache
+C:\Users\Pazmandi Peter\Desktop\Trash\PlayGround\Projects\ConsoleApps\DemonstrativeLetterSplitter\obj\Debug\net6.0\ref\DemonstrativeLetterSplitter.dll
